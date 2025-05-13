@@ -1,0 +1,19 @@
+body {
+    margin: 0;
+    padding: 0;
+    background-color: transparent;
+    color: white;
+    font-family: Arial, sans-serif;
+    font-size: 32px;
+}
+
+#now-playing {
+    padding: 10px;
+    background-color: rgba(0, 0, 0, 0.7);
+    border-radius: 5px;
+    display: inline-block;
+}
+
+#track-info {
+    margin: 0;
+}
