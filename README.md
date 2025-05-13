@@ -1,5 +1,5 @@
 ## Виджет OBS для показа названия песни
-[obsmusicwiget.github.io](obsmusicwiget.github.io)  
+[obsmusicw.github.io](obsmusicw.github.io)  
  В OBS добавьте источник "Браузер" и укажите URL вашего сайта в формате:  
  ```obsmusicwiget.github.io/index.html?user=username&token=api_token```  
  Замените **username** на имя пользователя Last.fm.  
@@ -12,7 +12,7 @@
 ----
 
 ## OBS widget for displaying song titles  
-[obsmusicwiget.github.io](obsmusicwiget.github.io)  
+[obsmusicw.github.io](obsmusicw.github.io)  
 
 In OBS, add a "Browser" source and enter your site URL in the following format:  
 ```obsmusicwiget.github.io/index.html?user=username&token=api_token```  
