@@ -1,5 +1,5 @@
 ## Виджет OBS для показа названия песни
-[gameboloto.fun/obsmusicw.github.io]([gameboloto.fun/obsmusicw.github.io](https://gameboloto.fun/obsmusicw.github.io))  
+[gameboloto.fun/obsmusicw.github.io](https://gameboloto.fun/obsmusicw.github.io/)  
  В OBS добавьте источник "Браузер" и укажите URL вашего сайта в формате:  
  ```https://gameboloto.fun/obsmusicw.github.io/index.html?user=username&token=api_token```  
  Замените **username** на имя пользователя Last.fm.  
